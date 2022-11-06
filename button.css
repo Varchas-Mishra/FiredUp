@@ -1,7 +1,7 @@
 .open {
   background-color: #FFF9C7;
   border: none;
-  color: royalblue;
+  color: #FE9500;
   padding: 12px;
   text-align: center;
   text-decoration: none;
@@ -37,10 +37,10 @@
 
 .info1 {
   border-color: #FFF;
-  color: royalblue
+  color: #FE9500
 }
 .info1:hover {
-  background: #4169e1;
+  background: #FE9500;
   color: #FFF9C7;
 }
 .info2 {
