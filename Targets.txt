@@ -2,3 +2,4 @@
 2 | Previous Page Button
 3 | Pages for all buttons
 4 | Icon Button
+5 | Change button colors
